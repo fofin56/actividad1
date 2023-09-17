@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>B4-23-(50) - TALLER DE APLICACIONES EMPRESARIALES - IC201IECIREOL</h1>
+        <h1>Benjamin Figueroa</h1>
     </body>
 </html>
